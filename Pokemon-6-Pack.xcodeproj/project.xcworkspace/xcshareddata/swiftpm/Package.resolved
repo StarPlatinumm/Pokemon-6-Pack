@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f1f7a06f40c6aadb4beb2a78f380f9938d574fa7"
+      }
+    },
+    {
+      "identity" : "swiftsoup",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/scinfu/SwiftSoup",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f707b8680cddb96dc1855632340a572ef37bbb98"
+      }
+    },
+    {
+      "identity" : "uicircularprogressring",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/luispadron/UICircularProgressRing.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "5b00b9b42b0a7db6f8239d526d7251eef9a63dcd"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -12,6 +12,7 @@ struct Pokemon_6_PackApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(PokemonLocalViewModel())
         }
     }
 }
